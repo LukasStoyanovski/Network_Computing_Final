@@ -65,19 +65,19 @@ This project implements a **multi-client auction platform** using the Java Socke
 2. Compile the Java code:
 
    ```bash
-   javac server/*.java client/*.java
+   javac -encoding UTF-8 src/server/*.java src/client/*.java
    ```
 
 3. Start the server:
 
    ```bash
-   java server.MainServer
+   java -cp src server.MainServer
    ```
 
 4. Start one or more clients (in separate terminals or systems):
 
    ```bash
-   java client.MainClient
+   java -cp src client.TestClient
    ```
 
 ---
