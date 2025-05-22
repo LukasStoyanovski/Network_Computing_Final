@@ -1,0 +1,4 @@
+RisteB|riste|Riste|Bun|rb@gmail.com|127.0.0.1
+TestUser1|pass123|John Doe|Jr|john@test.com|127.0.0.1
+TestUser2|pass123|Jane|Smith|jane@test.com|127.0.0.1
+Lukas|lukas123|Lukas|Stojanovski|lukas@gmail.com|127.0.0.1
