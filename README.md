@@ -126,26 +126,9 @@ The full documentation including:
 * Design decisions
 * Testing results
 
-...can be found in the `/docs` folder (if included), or in the submitted coursework report.
 
 ---
 
-## 👥 Team
-
-**Group #:** XX
-**Members:**
-
-* CSY22083
-* CSY220xx
-* CSY220xx
-
----
-
-## 📜 License
-
-This project is part of academic coursework and not intended for commercial use.
-
-```
 
 ---
 
