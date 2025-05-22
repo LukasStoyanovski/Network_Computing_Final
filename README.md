@@ -130,8 +130,3 @@ The full documentation including:
 ---
 
 
----
-
-Let me know if you want this customized with real filenames or if you're ready for me to generate the initial folder structure and Java stubs.
-```
-
